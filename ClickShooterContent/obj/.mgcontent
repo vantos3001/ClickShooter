@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/bigCircle/greenbigCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/bigCircle/purpleBigCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/bigCircle/redBigCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/bigCircle/yellowBigCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/gameButtons/backMenuButton.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/gameButtons/newGameMenuButton.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/gameButtons/shopMenuButton.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/littleCircle/greenLittleCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/littleCircle/redLittleCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/littleCircle/whiteLittleCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/littleCircle/yellowLittleCircle.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/fonts/Arial20.spritefont</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/shopButtons/shopCircleGreen.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/shopButtons/shopCircleRed.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/shopButtons/shopCircleSecret.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/shopButtons/shopCircleYellow.png</File>
+    <File>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/graphics/shopButtons/shopMaxHealth.png</File>
+  </SourceFiles>
+</SourceFileCollection>

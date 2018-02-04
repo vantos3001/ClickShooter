@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/fonts/Arial20.spritefont</SourceFile>
+  <SourceTime>2012-12-22T18:40:42+04:00</SourceTime>
+  <DestFile>C:/Users/Vano/Documents/Visual Studio 2017/Projects/ClickShooter/ClickShooterContent/bin/fonts/Arial20.xnb</DestFile>
+  <DestTime>2017-09-19T23:54:57.258794+03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T18:05:36+03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T18:05:36+03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
